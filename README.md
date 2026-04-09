@@ -1,21 +1,127 @@
-<h1 align="center">Hi 👋, I'm Swapnil Thakur</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil1thakur&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil1thakur" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Swapnil+Thakur;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Secure%2C+Scalable+Systems" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil1thakur" alt="swapnil1thakur" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-thakur-)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil1Thakur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-showcase--thakur7swapnil.replit.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakur7swapnil@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=swapnil1thakur&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Swapnil1Thakur)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil1thakur&show_icons=true&locale=en&layout=compact" alt="swapnil1thakur" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil1thakur&show_icons=true&locale=en" alt="swapnil1thakur" /></p>
+```java
+@Component
+public class SwapnilThakur implements BackendEngineer {
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1thakur&" alt="swapnil1thakur" /></p>
+    private final String role     = "Backend Engineer — Java & Spring Boot";
+    private final String focus    = "Secure, scalable REST APIs & Auth Systems";
+    private final String college  = "Lovely Professional University (B.Tech CSE, 2026)";
+    private final String looking  = "Backend Internship @ Top MNCs / Startups";
+
+    @Override
+    public String currentlyBuilding() {
+        return "Microservices with Spring Boot + Docker";
+    }
+
+    @Override
+    public String[] strengths() {
+        return new String[]{
+            "JWT & OAuth2 Authentication Systems",
+            "Spring Security 6 + RBAC",
+            "REST API Design & Optimization",
+            "System Design Fundamentals"
+        };
+    }
+}
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [ShopNest — E-Commerce Backend Platform](https://github.com/Swapnil1Thakur/sb-ecom)
+> Java · Spring Boot · Spring Security · JWT · MySQL · JUnit · Mockito · Swagger
+
+- Architected **15+ RESTful APIs** across product catalog, cart, and order modules with full Swagger/OpenAPI documentation
+- Engineered server-side pagination, dynamic sorting & filtering → **40% faster API response** under concurrent load
+- Enforced **RBAC across 4 privilege levels** via Spring Security + JWT with **80%+ test coverage** using JUnit & Mockito
+
+---
+
+### 🔐 [AuthBridge — Full-Stack Authentication System](https://github.com/Swapnil1Thakur)
+> Spring Boot 3 · Spring Security 6 · OAuth2 · JWT · MySQL · Docker · React · Vite
+
+- Engineered **credential login + OAuth2 SSO** via Google & GitHub with complete access/refresh token lifecycle management
+- Implemented **HttpOnly cookie-based refresh token rotation** per OWASP standards — eliminating XSS & CSRF at architecture level
+- **Dockerized** full-stack for cloud-ready deployment with silent token refresh and protected routing on React + Vite frontend
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Core Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Messaging, DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### 🧪 Testing & Docs
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swapnil1thakur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1thakur&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1thakur&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- 🔐 Built **JWT + OAuth2 auth systems** with OWASP-compliant security architecture
+- ⚡ Achieved **40% API performance improvement** through optimized query design
+- ✅ Maintained **80%+ test coverage** with JUnit & Mockito across production-grade codebases
+- 🧩 Solved **300+ DSA problems** — Trees, Graphs, Dynamic Programming (LeetCode + GFG)
+- ☁️ Delivered **Dockerized, cloud-ready** backend applications
+
+---
+
+<div align="center">
+
+*"Build systems that are secure by design, not by accident."*
+
+</div>
