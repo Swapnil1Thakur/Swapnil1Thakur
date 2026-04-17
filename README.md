@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-thakur-)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil1Thakur)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-showcase--thakur7swapnil.replit.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://swapnil-portfolio-three.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakur7swapnil@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=swapnil1thakur&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Swapnil1Thakur)
 
