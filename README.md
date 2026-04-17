@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Swapnil+Thakur;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Secure%2C+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Swapnil+Thakur;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+secure%2C+scalable+systems" alt="Typing SVG" />
 
 <br/>
 
@@ -20,10 +20,10 @@
 @Component
 public class SwapnilThakur implements BackendEngineer {
 
-    private final String role     = "Backend Engineer — Java & Spring Boot";
-    private final String focus    = "Secure, scalable REST APIs & Auth Systems";
+    private final String role     = "Backend Engineer (Java & Spring Boot)";
+    private final String focus    = "Secure, scalable REST APIs & authentication systems";
     private final String college  = "Lovely Professional University (B.Tech CSE, 2026)";
-    private final String looking  = "Backend Internship @ Top MNCs / Startups";
+    private final String looking  = "Backend Internships at Top MNCs / Startups";
 
     @Override
     public String currentlyBuilding() {
@@ -33,10 +33,10 @@ public class SwapnilThakur implements BackendEngineer {
     @Override
     public String[] strengths() {
         return new String[]{
-            "JWT & OAuth2 Authentication Systems",
+            "JWT & OAuth2 authentication systems",
             "Spring Security 6 + RBAC",
-            "REST API Design & Optimization",
-            "System Design Fundamentals"
+            "REST API design & optimization",
+            "System design fundamentals"
         };
     }
 }
@@ -49,18 +49,18 @@ public class SwapnilThakur implements BackendEngineer {
 ### 🛒 [ShopNest — E-Commerce Backend Platform](https://github.com/Swapnil1Thakur/sb-ecom)
 > Java · Spring Boot · Spring Security · JWT · MySQL · JUnit · Mockito · Swagger
 
-- Architected **15+ RESTful APIs** across product catalog, cart, and order modules with full Swagger/OpenAPI documentation
-- Engineered server-side pagination, dynamic sorting & filtering → **40% faster API response** under concurrent load
-- Enforced **RBAC across 4 privilege levels** via Spring Security + JWT with **80%+ test coverage** using JUnit & Mockito
+- Architected **15+ RESTful APIs** across product catalog, cart, and order modules with full Swagger/OpenAPI documentation  
+- Engineered server-side pagination, dynamic sorting & filtering → **40% faster API response time** under concurrent load  
+- Enforced **RBAC across 4 privilege levels** via Spring Security + JWT with **80%+ test coverage** using JUnit & Mockito  
 
 ---
 
 ### 🔐 [AuthBridge — Full-Stack Authentication System](https://github.com/Swapnil1Thakur)
 > Spring Boot 3 · Spring Security 6 · OAuth2 · JWT · MySQL · Docker · React · Vite
 
-- Engineered **credential login + OAuth2 SSO** via Google & GitHub with complete access/refresh token lifecycle management
-- Implemented **HttpOnly cookie-based refresh token rotation** per OWASP standards — eliminating XSS & CSRF at architecture level
-- **Dockerized** full-stack for cloud-ready deployment with silent token refresh and protected routing on React + Vite frontend
+- Engineered credential login + OAuth2 SSO via Google & GitHub with complete access/refresh token lifecycle management  
+- Implemented HttpOnly cookie-based refresh token rotation aligned with OWASP standards — mitigating XSS & CSRF risks at the architecture level  
+- Dockerized full-stack for cloud-ready deployment with silent token refresh and protected routing on React + Vite frontend  
 
 ---
 
@@ -112,11 +112,11 @@ public class SwapnilThakur implements BackendEngineer {
 
 ## 🏆 Highlights
 
-- 🔐 Built **JWT + OAuth2 auth systems** with OWASP-compliant security architecture
-- ⚡ Achieved **40% API performance improvement** through optimized query design
-- ✅ Maintained **80%+ test coverage** with JUnit & Mockito across production-grade codebases
-- 🧩 Solved **300+ DSA problems** — Trees, Graphs, Dynamic Programming (LeetCode + GFG)
-- ☁️ Delivered **Dockerized, cloud-ready** backend applications
+- 🔐 Built **JWT + OAuth2 authentication systems** with OWASP-compliant security architecture  
+- ⚡ Achieved **40% API performance improvement** through optimized query design  
+- ✅ Maintained **80%+ test coverage** with JUnit & Mockito across production-grade codebases  
+- 🧩 Solved **300+ DSA problems** — Trees, Graphs, Dynamic Programming (LeetCode + GFG)  
+- ☁️ Delivered **Dockerized, cloud-ready** backend applications  
 
 ---
 
