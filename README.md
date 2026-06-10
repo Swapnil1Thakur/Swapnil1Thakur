@@ -1,3 +1,71 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Swapnil+Thakur;Java+Backend+Engineer+%7C+Spring+Boot+%7C+Security;Payments+%C2%B7+Auth+Systems+%C2%B7+Distributed+Backend" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-thakur-)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://swapnil-portfolio-three.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1zte_k-vEuN_rSRI_Gj3E3oEWtIgBTYr3/view?usp=sharing)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakur7swapnil@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=swapnil1thakur&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Swapnil1Thakur)
+
+</div>
+
+---
+
+<div align="center">
+
+### Not just building features — building systems that don't break.
+*Final-year CS student · Open to SDE Internships & Java Backend Fresher Roles*
+
+</div>
+
+---
+
+## 🚀 Projects
+
+> These aren't tutorial projects. Each one was built around a specific backend problem worth solving.
+
+---
+
+### 💳 UPI Offline Mesh &nbsp;·&nbsp; [GitHub](https://github.com/Swapnil1Thakur/)
+
+**Distributed payment backend simulator — built for the hard parts of payments**
+
+Most payment projects skip the difficult questions. This one didn't.
+
+| Problem | Solution |
+|---|---|
+| How do you prevent double-spend under concurrent load? | Optimistic locking at the DB layer |
+| How do you guarantee transaction integrity without a live gateway? | SHA-256 hashing per transaction — tamper-proof audit trail |
+| What happens when the network fails mid-transaction? | Idempotency keys + retry logic — safe to replay |
+---
+
+### 🔐 AuthBridge &nbsp;·&nbsp; [GitHub](https://github.com/Swapnil1Thakur/auth-app-backend)
+
+**Production-ready auth system — OWASP-first, not security-as-an-afterthought**
+
+Credential login + OAuth2 SSO (Google & GitHub). The security decisions were architectural, not bolted on.
+
+| Decision | Why |
+|---|---|
+| HttpOnly cookies for refresh tokens | XSS cannot steal what JS cannot read |
+| Token rotation on every refresh | Stolen refresh token invalidates itself on next use |
+| Stateless JWT + silent refresh on frontend | No session state, no server memory leak |
+| Dockerised full-stack | Same environment from dev to deployment |
+---
+
+### 🛒 ShopNest &nbsp;·&nbsp; [GitHub](https://github.com/Swapnil1Thakur/sb-ecom)
+
+**E-commerce backend — 15+ APIs, RBAC, 80%+ test coverage**
+
+Full backend for catalog, cart, and orders. Focus was on query performance and auth that doesn't leak.
+
+- Server-side pagination + dynamic filtering → **40% faster response** under concurrent load
+- **RBAC across 4 privilege levels** via Spring Security + JWT
+- **80%+ test coverage** — JUnit & Mockito, not just happy paths
+- All endpoints on Swagger/OpenAPI spec
 ---
 
 ## 🛠️ Tech Stack
