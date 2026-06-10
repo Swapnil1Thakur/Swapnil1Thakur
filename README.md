@@ -29,7 +29,7 @@
 
 ---
 
-### 💳 UPI Offline Mesh &nbsp;·&nbsp; [GitHub](https://github.com/Swapnil1Thakur/)
+### 💳 UPI Offline Mesh &nbsp;·&nbsp; [GitHub](https://github.com/Swapnil1Thakur/upi-offline-mesh)
 
 **Distributed payment backend simulator — built for the hard parts of payments**
 
